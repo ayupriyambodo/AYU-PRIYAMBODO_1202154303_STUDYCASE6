@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "434449405228",
+    "firebase_url": "https://bismillahselesai.firebaseio.com",
+    "project_id": "bismillahselesai",
+    "storage_bucket": "bismillahselesai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434449405228:android:6708bd6dc10f6072",
+        "android_client_info": {
+          "package_name": "com.example.ayupriyambodo.bismillahselesai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434449405228-t1i17mti3itlp82kpm9k2e26pqkdsttc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbLrQyB7jUr_zLVelNx3htr3BQfXZGZLA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
